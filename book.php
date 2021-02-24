@@ -39,7 +39,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><input type="submit" class="btn btn-primary"></td>
+                    <td><input type="submit" class="btn btn-secondary"></td>
                 </tr>
             </table>
         
